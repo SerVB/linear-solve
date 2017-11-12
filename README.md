@@ -1,2 +1,2 @@
 # linear-solve
-My Python code solve hometasks
+My Python code to solve hometasks
